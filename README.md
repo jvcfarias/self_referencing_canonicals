@@ -1,1 +1,1 @@
-# self_referencing_canonicals
+# Autorreferenciando canonical tags por manipulação de DOM 
